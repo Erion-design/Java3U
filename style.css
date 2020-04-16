@@ -1,0 +1,52 @@
+body{
+	background-color:#00ffff;
+}
+ul{
+	display: inline;
+	padding-left: 65%;
+}
+ul li{
+	display: inline;
+}
+ul li a{
+	text-decoration: none;
+	color: red;
+}
+ul li a .contact{
+	color: black;
+}
+#loginformat{
+	padding-left: 50px;
+}
+.input{
+	height: 10px;
+	border-radius: 20px;
+}
+.login{
+	padding: 50px 50px;
+	margin: 160px auto auto 550px;
+	width: 160px;
+	height: 160px;
+	border-radius: 20px;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #329DA8;
+
+}
+.button{
+	margin-left: 60px;
+	background-color: green;
+	border-radius: 20px;
+}
+h4{
+	display: inline;
+	margin-left: 14px;
+	
+}
+b{
+	margin-left: 620px;
+}
+p{
+	margin-bottom: 0px;
+	margin-left: 670px;
+}
